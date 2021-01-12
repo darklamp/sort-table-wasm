@@ -17,6 +17,7 @@ rayon = "1.5"
 serde_json = { version = "1.0.61" }
 serde = { version = "1.0.118", features = ["derive"] }
 js-sys = "0.3.46"
+console_error_panic_hook = "0.1.6"
 
 [profile.release]
 lto = true
