@@ -1,4 +1,9 @@
 # sort-table-wasm
+
+DISCLAIMER: This code is probably slow and buggy.  It's not something I spent much time on.
+
+
+
 Table sorting function for JS Gamify project compiled to WASM
 
 ## Building
